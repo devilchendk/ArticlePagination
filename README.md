@@ -1,6 +1,6 @@
 # ArticlePagination
 
-Typecho jasmine主题文章分页插件
+# Typecho jasmine主题文章分页插件
 
 # 使用超简单 使用超简单 使用超简单
 
