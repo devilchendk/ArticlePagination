@@ -6,4 +6,11 @@ Typecho jasmine主题文章分页插件
 
 ![image](https://github.com/user-attachments/assets/162a9474-a199-4b3b-99e5-9f8ddea85b95)
 
+哦，对了，使用时记得在插件Plugins.php文件中替换分页按钮图标路径：
+
+![image](https://github.com/user-attachments/assets/bc9cbc74-a13a-4f2e-853b-ce1fb4a5751d)
+
+
+效果体验前往：https://www.chendk.info/archives/20/  分页按钮在右下角。
+
 
